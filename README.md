@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProgrammerMD
-- 👀 I’m mainly interested in Java and C++ programming. 
+- 👀 I’m mainly interested in Python and C++ programming. 
 - 🌱 I’m currently learning C++ programming.
 - 💞️ I’m looking to collaborate on whatever peaks my interest at the time. 
 - 📫 How to reach me...  Feel free to drop me line here, or shoot me an email. 
